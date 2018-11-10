@@ -3,3 +3,5 @@ segunda alteração do arquivo
 Alteração na branch dev
 
 alteração para o stash1
+
+commit de exemplo
