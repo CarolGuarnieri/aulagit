@@ -5,3 +5,5 @@ segunda alteração do arquivo
 alteração para manter no reset
 
 alteração para o stash
+
+Alteração na branch dev
