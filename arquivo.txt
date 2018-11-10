@@ -1,7 +1,9 @@
-segunda alteração do arquivo
+segunda alteraÃ§Ã£o do arquivo
 
-Alteração na branch dev
+AlteraÃ§Ã£o na branch dev
 
-alteração para o stash1
+alteraÃ§Ã£o para o stash1
 
 commit de exemplo
+
+teste2
